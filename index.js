@@ -23,7 +23,7 @@ function dec (n){
 }
 
 function makeInt (n){
-  if(n < 0 = true){
+  if(n < 0){
     return NaN
   } else {
     return parseFloat(n)
